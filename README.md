@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Saturno de Amistad
 
 Sitio web estático con una escena 3D de Saturno, frases animadas, controles para girar y acercar la cámara, y un reproductor de audio.
@@ -53,3 +54,6 @@ Para publicarlo como sitio con GitHub Pages, abre **Settings > Pages**, elige **
 - [Abrir una carpeta en Visual Studio Code](https://code.visualstudio.com/docs/getstarted/overview)
 - [Agregar un proyecto existente a GitHub Desktop](https://docs.github.com/en/desktop/adding-and-cloning-repositories/adding-an-existing-project-to-github-using-github-desktop)
 - [Publicar un sitio con GitHub Pages](https://docs.github.com/en/pages/quickstart)
+=======
+# SATURNO-DE-MI-ALEE
+>>>>>>> 7d2ec73959227e88e3220189acddf2ffa16e0c66
